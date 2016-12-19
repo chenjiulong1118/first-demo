@@ -1,0 +1,74 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": {
+        "hot": [
+            {
+                "name": "系统重装",
+                "url": "/shangmen/order?f_type=mobile&yy_type=2&s_type=youji&fault_id=14"
+            },
+            {
+                "name": "电脑清灰",
+                "url": "/shangmen/order?f_type=mobile&yy_type=2&s_type=youji&fault_id=13"
+            },
+            {
+                "name": "VR移机/安装",
+                "url": "/shangmen/order?f_type=mobile&yy_type=2&s_type=youji&fault_id=56"
+            },
+            {
+                "name": "数据恢复",
+                "url": "/shangmen/order?f_type=mobile&yy_type=2&s_type=youji&fault_id=11"
+            },
+            {
+                "name": "系统故障修复",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=系统故障修复"
+            },
+            {
+                "name": "驱动安装",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=驱动安装"
+            }
+        ],
+        "other": [
+            {
+                "name": "游戏加速",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=游戏加速"
+            },
+            {
+                "name": "开机加速",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=开机加速"
+            },
+            {
+                "name": "网速优化",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=网速优化"
+            },
+            {
+                "name": "蓝屏死机",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=蓝屏死机"
+            },
+            {
+                "name": "电脑没声音",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=电脑没声音"
+            },
+            {
+                "name": "路由器调试",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=路由器调试"
+            },
+            {
+                "name": "无法上网",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=无法上网"
+            },
+            {
+                "name": "家庭局域网",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=家庭局域网"
+            },
+            {
+                "name": "更换风扇",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=更换风扇"
+            },
+            {
+                "name": "病毒查杀",
+                "url": "/search/?_isfix=0&ie=utf-8&f=tcb&stype=0&keyword=病毒查杀"
+            }
+        ]
+    }
+}

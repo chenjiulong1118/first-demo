@@ -1,0 +1,32 @@
+<!-- 店铺shop模板 -->
+<script type="text/html" id= "shopTmp">
+	<%for(var i = 0;i<shop_data.length;i++){%>
+		<li>
+			<figure>
+				<img src=<%=shop_data[i].shop_ico%> alt="mian_nav_1">
+				<figcaption>
+				<div>
+				<a href="#"><%=shop_data[i].shop_name%></a>
+				<span>店铺等级:</span>
+				<span><img src="img/xin.jpg" alt="xin"><img src="img/xin.jpg" alt="xin"><img src="img/xin.jpg" alt="xin"><img src="img/xin.jpg" alt="xin"></span>
+				</div>
+				<p>主营：<%=shop_data[i].main%></p>
+				<p>地址：<%=shop_data[i].addr_detail%></p>
+				</figcaption>
+			</figure>
+			<div>
+				<p>
+					先行赔付
+				</p>
+				<p>
+					同城帮认证
+				</p>
+				<p>
+					人气：<span><%=shop_data[i].shop_visit%></span>次浏览
+				</p>
+			</div>
+				<a href=<%=shop_data[i].shop_addr%> id="pushShop">进入店铺</a>
+		</li>
+	
+	<%}%>
+</script>

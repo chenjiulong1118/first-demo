@@ -1,0 +1,15 @@
+<!-- tab修手机模板 -->
+<script type="text/html" id= "xiushoujiTmp">
+	<%for(var i = 0;i<result.length;i++){%>
+		<dl>
+		<dt>
+			<%=result[i].name%>&gt; 
+		</dt>
+			<%for(var j=0;j<result[i].list.length;j++){%>
+				<dd>
+					<a href="#"><%=result[i].list[j].name%></a>
+				</dd>
+			<%}%>
+		</dl>
+	<%}%>
+</script>

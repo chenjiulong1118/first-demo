@@ -1,0 +1,39 @@
+<!-- 城市abc模板 -->
+<script type="text/html" id= "weixiuCityTmp">
+	<h4><input type="button" value="关闭×" class="closeCity1">城市列表</h4>
+	<div class="weixiuCity2">	
+			<div class="cityLeft">
+				<p>热门</p>
+				<p>拼音</p>
+			</div>
+		<div class="cityRight">
+			<div class="cityTop">
+				<%for(var n = 0;n<result.hotcity.length;n++){%>
+						<a><%=result.hotcity[n].name%></a>
+				<%}%>
+			</div>
+			<div class="cityCenter">
+				<%for(var n in result.citylist){
+					if(n=="A"){%>
+						<a class="nowCity"><%=n%></a>
+					<%}else{%>
+						<a><%=n%></a>
+					<%}%>
+				<%}%>
+			</div>
+			<div class="cityBottom">
+			<%for(var n in result.citylist){%>
+				<%if(n=="A"){%>
+					<div class="nowCityList">
+				<%}else{%>
+					<div>
+				<%}%>
+				<%for(var m in result.citylist[n]){%>
+					<a ><%=result.citylist[n][m].name%></a>
+				<%}%>
+				</div>
+			<%}%>	
+			</div>
+		</div>
+	</div>
+</script>

@@ -1,0 +1,13 @@
+<!-- tab修电脑模板 -->
+<!-- 热门问题 -->
+<script type="text/html" id= "xiudiannaoTmp1">
+	<%for(var n = 0;n<result.hot.length;n++){%>
+		<a href=<%=result.hot[n].url%>><%=result.hot[n].name%></a>
+	<%}%>
+</script>
+<!-- 其他问题 -->
+<script type="text/html" id= "xiudiannaoTmp2">
+	<%for(var n = 0;n<result.other.length;n++){%>
+		<a href=<%=result.other[n].url%>><%=result.other[n].name%></a>
+	<%}%>
+</script>

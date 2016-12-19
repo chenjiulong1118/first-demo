@@ -1,0 +1,86 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "product_id": "27181",
+            "model_name": "华为荣耀畅玩5X",
+            "brand_id": "4",
+            "brand_name": "华为",
+            "price": 699,
+            "model_id": "475",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01147d53c344d8b2e3.jpg",
+                "big": "http://p0.qhmsg.com/t0180c1e7b27c3e4a2f.jpg",
+                "mid": "http://p0.qhmsg.com/t01f340bcba6f3a0a39.jpg",
+                "min": "http://p0.qhmsg.com/t01453121fc0a2649c3.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "27249",
+            "model_name": "iPhone 6 Plus",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2799,
+            "model_id": "98",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t015987d004d761d59c.jpg",
+                "big": "http://p0.qhmsg.com/t012356c64c53a61eb9.jpg",
+                "mid": "http://p0.qhmsg.com/t010401a0742ed28d54.jpg",
+                "min": "http://p0.qhmsg.com/t01797683ee55e0cafa.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "27221",
+            "model_name": "A33",
+            "brand_id": "22",
+            "brand_name": "oppo",
+            "price": 439,
+            "model_id": "620",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t01186ab727a9abf3c8.jpg",
+                "big": "http://p0.qhmsg.com/t01b37416432c287766.jpg",
+                "mid": "http://p0.qhmsg.com/t016d280b07966e289a.jpg",
+                "min": "http://p0.qhmsg.com/t010279e21c11edbd22.jpg"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "27205",
+            "model_name": "iPhone 6",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2450,
+            "model_id": "97",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t017cba5fcace0ee0db.png",
+                "big": "http://p0.qhmsg.com/t0180d7542624092d6f.png",
+                "mid": "http://p0.qhmsg.com/t0107f78db3505886a1.png",
+                "min": "http://p0.qhmsg.com/t01feff895c7b9385c4.png"
+            },
+            "mer_name": ""
+        },
+        {
+            "product_id": "27248",
+            "model_name": "iPhone 6 Plus",
+            "brand_id": "2",
+            "brand_name": "苹果",
+            "price": 2399,
+            "model_id": "98",
+            "mer_id": "8",
+            "thum_img": {
+                "old": "http://p0.qhmsg.com/t015987d004d761d59c.jpg",
+                "big": "http://p0.qhmsg.com/t012356c64c53a61eb9.jpg",
+                "mid": "http://p0.qhmsg.com/t010401a0742ed28d54.jpg",
+                "min": "http://p0.qhmsg.com/t01797683ee55e0cafa.jpg"
+            },
+            "mer_name": ""
+        }
+    ]
+}

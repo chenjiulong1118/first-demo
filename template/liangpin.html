@@ -1,0 +1,15 @@
+<!-- 二手精品模板 -->
+<script type="text/html" id= "liangpinTmp">
+		<li>
+			<a href="#"><img src="img/main_2_0.jpg" alt="main_1_0"></a>
+		</li>
+	<%for(var n = 0;n<result.length;n++){%>
+		<li>
+			<a href="#">
+				<img src=<%=result[n].thum_img.big%>>
+				<span><%=result[n].model_name%></span>
+				<b><i>￥</i><%=result[n].price%></b>
+			</a>
+		</li>
+	<%}%>	
+</script>

@@ -1,0 +1,265 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "id": "1",
+            "name": "屏幕",
+            "icon": "http://p0.qhmsg.com/t012eb790a758fa2e6c.png",
+            "list": [
+                {
+                    "id": "10",
+                    "name": "屏碎，但显示正常",
+                    "price": "299.00",
+                    "original_price": "499.00",
+                    "desc1": "手机屏幕玻璃碎裂，但显示触摸完全正常不影响使用。（不含黄斑、暗伤、亮点、漏液、触摸不灵敏等问题）"
+                },
+                {
+                    "id": "50",
+                    "name": "屏幕不显示或花屏",
+                    "price": "699.00",
+                    "original_price": "899.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "51",
+                    "name": "屏幕触摸失灵",
+                    "price": "499.00",
+                    "original_price": "699.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "16",
+                    "name": "Pad更换屏幕",
+                    "price": "299.00",
+                    "original_price": "500.00",
+                    "desc1": "支持：iPad2/3/4/air iPad mini 1/2/3"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "电池/充电/开机",
+            "icon": "http://p0.qhmsg.com/t0194d1eced2bef5e12.png",
+            "list": [
+                {
+                    "id": "12",
+                    "name": "电池问题",
+                    "price": "169.00",
+                    "original_price": "300.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "42",
+                    "name": "不开机",
+                    "price": "60.00",
+                    "original_price": "140.00",
+                    "desc1": "手机软件问题、手机跌落等故障尝试维修，不包括（机身弯曲变形或有第三方维修记录）"
+                },
+                {
+                    "id": "27",
+                    "name": "充电(连接)问题",
+                    "price": "110.00",
+                    "original_price": "190.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "按键",
+            "icon": "http://p0.qhmsg.com/t01377a06cbd9e741aa.png",
+            "list": [
+                {
+                    "id": "17",
+                    "name": "开关机键失灵",
+                    "price": "85.00",
+                    "original_price": "195.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "18",
+                    "name": "Home键失灵",
+                    "price": "110.00",
+                    "original_price": "190.00",
+                    "desc1": "支持：苹果全型号手机"
+                },
+                {
+                    "id": "19",
+                    "name": "音量键失灵",
+                    "price": "115.00",
+                    "original_price": "195.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "声音/震动",
+            "icon": "http://p0.qhmsg.com/t01c03b1c4e5c46b774.png",
+            "list": [
+                {
+                    "id": "25",
+                    "name": "听筒问题",
+                    "price": "120.00",
+                    "original_price": "200.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "49",
+                    "name": "麦克风问题",
+                    "price": "169.00",
+                    "original_price": "219.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "26",
+                    "name": "外放扬声器问题",
+                    "price": "120.00",
+                    "original_price": "200.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "48",
+                    "name": "耳机插口故障",
+                    "price": "169.00",
+                    "original_price": "219.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "29",
+                    "name": "震动功能失效",
+                    "price": "120.00",
+                    "original_price": "200.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "拍照/录像",
+            "icon": "http://p0.qhmsg.com/t01fd6a5c1614e27c18.png",
+            "list": [
+                {
+                    "id": "23",
+                    "name": "后摄像头无法拍照",
+                    "price": "110.00",
+                    "original_price": "190.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "24",
+                    "name": "前摄像头拍照故障",
+                    "price": "110.00",
+                    "original_price": "190.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "外壳/边框",
+            "icon": "http://p0.qhmsg.com/t016c1523a292f76815.png",
+            "list": [
+                {
+                    "id": "28",
+                    "name": "中框变形",
+                    "price": "110.00",
+                    "original_price": "190.00",
+                    "desc1": "支持：苹果，三星系列手机"
+                },
+                {
+                    "id": "53",
+                    "name": "手机换彩壳",
+                    "price": "299.00",
+                    "original_price": "599.00",
+                    "desc1": "iPhone6/6P更换后壳"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "name": "进水入液/主板故障",
+            "icon": "http://p0.qhmsg.com/t017cc5197fde915b4b.png",
+            "list": [
+                {
+                    "id": "20",
+                    "name": "进水入液",
+                    "price": "60.00",
+                    "original_price": "140.00",
+                    "desc1": "普通进水可尝试维修，不包括（长时间浸泡或有第三方维修记录）"
+                },
+                {
+                    "id": "21",
+                    "name": "手机主板故障",
+                    "price": "60.00",
+                    "original_price": "140.00",
+                    "desc1": "机身弯曲变形或有第三方维修记录不维修"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "name": "其他故障",
+            "icon": "http://p0.qhmsg.com/t017ef2394d9a6a8400.png",
+            "list": [
+                {
+                    "id": "52",
+                    "name": "软件升级/刷机",
+                    "price": "139.00",
+                    "original_price": "199.00",
+                    "desc1": "支持：苹果，三星，小米，华为系列手机"
+                },
+                {
+                    "id": "22",
+                    "name": "WiFi功能故障",
+                    "price": "160.00",
+                    "original_price": "240.00",
+                    "desc1": "支持：苹果，三星系列手机"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "name": "个性化服务",
+            "icon": "http://p0.qhmsg.com/t012c440d96e78b33cf.png",
+            "list": [
+                {
+                    "id": "44",
+                    "name": "点亮iPhone logo",
+                    "price": "168.00",
+                    "original_price": "168.00",
+                    "desc1": "支持iPhone6/6 Plus"
+                },
+                {
+                    "id": "45",
+                    "name": "蓝光护眼钢化膜",
+                    "price": "78.00",
+                    "original_price": "98.00",
+                    "desc1": "完美覆盖，贴合屏幕，杜绝翘边"
+                },
+                {
+                    "id": "46",
+                    "name": "极透高清钢化膜",
+                    "price": "58.00",
+                    "original_price": "58.00",
+                    "desc1": "抗油抗污，全面覆盖"
+                },
+                {
+                    "id": "47",
+                    "name": "爱机深度清洁",
+                    "price": "78.00",
+                    "original_price": "98.00",
+                    "desc1": "避免灰尘带来的接触不良或短路"
+                },
+                {
+                    "id": "53",
+                    "name": "手机换彩壳",
+                    "price": "299.00",
+                    "original_price": "599.00",
+                    "desc1": "iPhone6/6P更换后壳"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "id": "10",
+            "brand_id": "10",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "100",
+            "hs_status": "10",
+            "name": "苹果"
+        },
+        {
+            "id": "0",
+            "brand_id": "0",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "99",
+            "hs_status": "10",
+            "name": "三星"
+        },
+        {
+            "id": "13",
+            "brand_id": "13",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "98",
+            "hs_status": "10",
+            "name": "小米"
+        },
+        {
+            "id": "1",
+            "brand_id": "1",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "97",
+            "hs_status": "10",
+            "name": "华为"
+        },
+        {
+            "id": "9",
+            "brand_id": "9",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "96",
+            "hs_status": "10",
+            "name": "步步高"
+        },
+        {
+            "id": "7",
+            "brand_id": "7",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "95",
+            "hs_status": "10",
+            "name": "OPPO"
+        },
+        {
+            "id": "2",
+            "brand_id": "2",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "94",
+            "hs_status": "10",
+            "name": "HTC"
+        },
+        {
+            "id": "20",
+            "brand_id": "20",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "93",
+            "hs_status": "10",
+            "name": "魅族"
+        },
+        {
+            "id": "8",
+            "brand_id": "8",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "92",
+            "hs_status": "10",
+            "name": "索尼"
+        },
+        {
+            "id": "3",
+            "brand_id": "3",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "91",
+            "hs_status": "10",
+            "name": "联想"
+        },
+        {
+            "id": "4",
+            "brand_id": "4",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "90",
+            "hs_status": "10",
+            "name": "酷派"
+        },
+        {
+            "id": "6",
+            "brand_id": "6",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "89",
+            "hs_status": "10",
+            "name": "中兴"
+        },
+        {
+            "id": "5",
+            "brand_id": "5",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "88",
+            "hs_status": "10",
+            "name": "诺基亚"
+        },
+        {
+            "id": "14",
+            "brand_id": "14",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "87",
+            "hs_status": "10",
+            "name": "朵唯"
+        },
+        {
+            "id": "26",
+            "brand_id": "26",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "86",
+            "hs_status": "10",
+            "name": "乐视"
+        },
+        {
+            "id": "15",
+            "brand_id": "15",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "85",
+            "hs_status": "10",
+            "name": "LG"
+        },
+        {
+            "id": "16",
+            "brand_id": "16",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "84",
+            "hs_status": "10",
+            "name": "黑莓"
+        },
+        {
+            "id": "12",
+            "brand_id": "12",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "摩托罗拉"
+        },
+        {
+            "id": "27",
+            "brand_id": "27",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "360手机"
+        },
+        {
+            "id": "25",
+            "brand_id": "25",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "微软"
+        },
+        {
+            "id": "24",
+            "brand_id": "24",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "美图秀秀"
+        },
+        {
+            "id": "23",
+            "brand_id": "23",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "一加"
+        },
+        {
+            "id": "22",
+            "brand_id": "22",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "锤子"
+        },
+        {
+            "id": "11",
+            "brand_id": "11",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "金立"
+        },
+        {
+            "id": "17",
+            "brand_id": "17",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "TCL"
+        },
+        {
+            "id": "29",
+            "brand_id": "29",
+            "icon": "t01a6a839247606aeb6.png",
+            "hot": "1",
+            "hs_status": "10",
+            "name": "小辣椒"
+        }
+    ]
+}

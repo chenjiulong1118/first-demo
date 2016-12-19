@@ -1,0 +1,14 @@
+<!-- 二手回收模板 -->
+<script type="text/html" id= "huishouTmp">
+		<li>
+			<a href="#"><img src="img/main_1_0.jpg" alt="main_1_0"></a>
+		</li>
+	<%for(var n = 0;n<result.length;n++){%>
+		<li>
+			<a href="#">
+				<img src=<%=result[n].img_url%>>
+				<span><%=result[n].model_alis%></span>
+			</a>
+		</li>
+	<%}%>	
+</script>

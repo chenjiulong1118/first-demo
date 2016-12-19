@@ -1,0 +1,36 @@
+{
+    "errno": 0,
+    "errmsg": "OK",
+    "result": [
+        {
+            "model_id": 1,
+            "brand_id": 10,
+            "model_alis": "苹果iPhone 6",
+            "img_url": "http://p0.qhmsg.com/t01068fe5e76aa7e910.jpg"
+        },
+        {
+            "model_id": 4442,
+            "brand_id": 10,
+            "model_alis": "苹果iPhone 5s",
+            "img_url": "http://p6.qhmsg.com/t01ddf19cbaa3a791b7.jpg"
+        },
+        {
+            "model_id": 4868,
+            "brand_id": 13,
+            "model_alis": "小米 M4",
+            "img_url": "http://p0.qhmsg.com/t0154d371a550ee894f.jpg"
+        },
+        {
+            "model_id": 4938,
+            "brand_id": 1,
+            "model_alis": "华为 Mate 7",
+            "img_url": "http://p0.qhmsg.com/t01078047308a85471c.jpg"
+        },
+        {
+            "model_id": 6094,
+            "brand_id": 20,
+            "model_alis": "魅族 MX5",
+            "img_url": "http://p0.qhmsg.com/t0127e99c045a53e82e.jpg"
+        }
+    ]
+}
